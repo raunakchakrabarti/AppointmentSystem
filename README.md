@@ -9,6 +9,9 @@ We thank our Mentor Prof. Eekian Wong for guiding and helping us.)
 Resources:  [Elite](http://103.127.146.165/wiki/index.php?title=Elite:Main)
 
 ## Credits
+#### Team Elite
+
+
 
 - Project Manager:	Raunak Chakrabarti
 - Quality Manager:	Saptarshi Dey
